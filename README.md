@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hello! 👋
+😄 Pronouns: she/her 
 
+🌱 I’m currently learning programming in Python
+
+📫 How to reach me: LinkedIn: www.linkedin.com/in/paulina-turner-castelo
 <!--
 **paulinaturner/Paulinaturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/paulina-turner-castelo
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
