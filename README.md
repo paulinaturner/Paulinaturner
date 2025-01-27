@@ -1,12 +1,15 @@
-### Hello! 👋
-🌱 I’m currently learning programming in Python
+# Paulina Turner Castelo 
 
-⚙️Technical Skills: Python, Data Visualization
+##Technical Skills 
+  - Python, Data visualization
 
-🎓 Education: Currently pursuing a Bachelor in Business Administration. 
-Majoring in Marketing. Minoring in Computing Digital Technologies and Collaborative Innovation. 
+##Education
+  - University of Notre Dame
+  - Pursuing BBA, Majoring in Marketing. Minoring in CDT & Collaborative Innovation (Design).
 
-📫 How to reach me: LinkedIn: www.linkedin.com/in/paulina-turner-castelo
+###Contact
+- Reach me: LinkedIn: www.linkedin.com/in/paulina-turner-castelo
+
 <!--
 **paulinaturner/Paulinaturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
