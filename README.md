@@ -1,12 +1,12 @@
-## Hello! 👋
-😄 Pronouns: she/her 
-
+### Hello! 👋
 🌱 I’m currently learning programming in Python
 
 📫 How to reach me: LinkedIn: www.linkedin.com/in/paulina-turner-castelo
 
-Education: Currently pursuing a Bachelor in Business Administration. 
+🎓 Education: Currently pursuing a Bachelor in Business Administration. 
 Majoring in Marketing. Minoring in Computing Digital Technologies and Collaborative Innovation. 
+
+⚙️Technical Skills: Python
 
 <!--
 **paulinaturner/Paulinaturner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
