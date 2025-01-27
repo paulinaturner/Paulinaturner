@@ -7,7 +7,7 @@
   - University of Notre Dame
   - Pursuing BBA, Majoring in Marketing. Minoring in CDT & Collaborative Innovation (Design).
 
-### Contact
+## Contact
 - Reach me: LinkedIn: www.linkedin.com/in/paulina-turner-castelo
 
 <!--
