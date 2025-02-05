@@ -7,6 +7,12 @@
   - University of Notre Dame
   - Pursuing BBA, Majoring in Marketing. Minoring in CDT & Collaborative Innovation (Design).
 
+## Current Projects 
+  - Learning to use Python to build webpages and apps. 
+
+## Goals 
+  - Improve my debugging skills and increase my fluency in Python. 
+
 ## Contact
 - Reach me: LinkedIn: www.linkedin.com/in/paulina-turner-castelo
 
