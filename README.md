@@ -1,7 +1,7 @@
 # Paulina Turner Castelo 
 
 ## Technical Skills 
-  - Python, Data visualization
+  - Python, Data visualization, NER Sentiment Analysis.
 
 ## Education
   - University of Notre Dame
