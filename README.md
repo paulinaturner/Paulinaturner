@@ -1,14 +1,20 @@
 # Paulina Turner Castelo 
 
 ## Technical Skills 
-  - Python, Data visualization, NER Sentiment Analysis.
+  - Python, Data visualization, NER Sentiment Analysis, StreamlitApp Development, Data Handling with Pandas.
 
 ## Education
   - University of Notre Dame
   - Pursuing BBA, Majoring in Marketing. Minoring in CDT & Collaborative Innovation (Design).
 
-## Current Projects 
-  - Learning to use Python to build webpages and apps. 
+## Current Projects at a glance:
+  - ### Project 1:
+  - 
+  - ### Project 2:
+  - 
+  - ### Project 3:Customer Lifetime Value (CLV) Calculator
+  - A Streamlit-based web app that helps marketers estimate customer lifetime value using customizable inputs like purchase frequency, retention rate, and acquisition cost. Includes     visual outputs, investment guidance, and a batch CSV processing feature.
+  - Link to project: StreamlitAppFinal
 
 ## Goals 
   - Improve my debugging skills and increase my fluency in Python. 
