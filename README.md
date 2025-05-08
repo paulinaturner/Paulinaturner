@@ -11,7 +11,7 @@
 ### Project 1:
   - 
 ### Project 2: Tidy Data
-  - Link to project: [GitHub Tab] (https://github.com/paulinaturner/TURNER-Python-Portfolio/tree/8e2efdb60c8a485c9cb74a775fb27f8676aa63e8/TidyData-Project)
+  - Link to project: [Project Page on GitHubTab](https://github.com/paulinaturner/TURNER-Python-Portfolio/tree/8e2efdb60c8a485c9cb74a775fb27f8676aa63e8/TidyData-Project)
   - Link to file: [IPYNBFile](https://github.com/paulinaturner/TURNER-Python-Portfolio/blob/main/TidyData-Project/Tidy_Data_File.ipynb)
 ### Project 3: NER App 
   - An interactive Streamlit app that lets users create and visualize custom-named entities in real time using spaCy’s EntityRuler. Users define entity labels and patterns, then instantly see their text annotated for analysis or testing purposes.
