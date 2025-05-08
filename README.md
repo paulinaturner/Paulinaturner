@@ -12,6 +12,10 @@
   - 
 ### Project 2:
   - 
+### Project 3: NER App 
+  - An interactive Streamlit app that lets users create and visualize custom-named entities in real time using spaCy’s EntityRuler. Users define entity labels and patterns, then instantly see their text annotated for analysis or testing purposes.
+  - Link to project: [NERApp](https://paulinaturner-turner-pyth-nerstreamlitappnerstreamlitapp-ihcnjx.streamlit.app/)
+
 ### Project 4:Customer Lifetime Value (CLV) Calculator
   - A Streamlit-based web app that helps marketers estimate customer lifetime value using customizable inputs like purchase frequency, retention rate, and acquisition cost. Includes     visual outputs, investment guidance, and a batch CSV processing feature.
   - Link to project: [StreamlitAppFinal](https://finalappeoc.streamlit.app/)
