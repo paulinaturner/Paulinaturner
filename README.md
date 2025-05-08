@@ -11,6 +11,7 @@
 ### Project 1:
   - 
 ### Project 2: Tidy Data
+  - A Jupyter Notebook project focused on cleaning and transforming messy Olympic medalist data into a tidy format for analysis. This project applies data wrangling techniques like melting, filtering, renaming, and pivoting to make the dataset suitable for visualizations and insights.  
   - Link to project: [Project Page on GitHubTab](https://github.com/paulinaturner/TURNER-Python-Portfolio/tree/8e2efdb60c8a485c9cb74a775fb27f8676aa63e8/TidyData-Project)
   - Link to file: [IPYNBFile](https://github.com/paulinaturner/TURNER-Python-Portfolio/blob/main/TidyData-Project/Tidy_Data_File.ipynb)
 ### Project 3: NER App 
