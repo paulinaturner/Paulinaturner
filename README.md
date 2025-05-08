@@ -12,7 +12,7 @@
   - 
 ### Project 2:
   - 
-### Project 3:Customer Lifetime Value (CLV) Calculator
+### Project 4:Customer Lifetime Value (CLV) Calculator
   - A Streamlit-based web app that helps marketers estimate customer lifetime value using customizable inputs like purchase frequency, retention rate, and acquisition cost. Includes     visual outputs, investment guidance, and a batch CSV processing feature.
   - Link to project: [StreamlitAppFinal](https://finalappeoc.streamlit.app/)
 
