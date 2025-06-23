@@ -8,7 +8,7 @@
   - Pursuing BBA, Majoring in Marketing. Minoring in CDT & Collaborative Innovation (Design).
 
 ## Current Projects at a glance:
-### Project 1:
+### Project 1: Intro
   - An introductory Streamlit web app for exploring the Palmer Penguins dataset. Users can view the dataset and filter penguins interactively by bill length using a slider.
   - Link to project: [Page on GitHub](https://github.com/paulinaturner/TURNER-Python-Portfolio/blob/main/basic-streamlit-app/README.md) 
 ### Project 2: Tidy Data
